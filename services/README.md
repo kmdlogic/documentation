@@ -91,4 +91,5 @@ Easy and secure document signing.
 
 Logic Document Generation service aimed to generate documents for well-defined business scenarios using templates that their customers can easily manage.  
 
-We have published a sample that demonstrates usage of Logic Document Generation API. Please visit the [KMD Logic Document Generation Client](https://github.com/kmdlogic/kmd-logic-document-generation-client) on GitHub.  
+We have published a sample that demonstrates usage of Logic Document Generation API.  
+Please visit the [KMD Logic Document Generation Client](https://github.com/kmdlogic/kmd-logic-document-generation-client) on GitHub to learn more.  
