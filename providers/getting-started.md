@@ -1,4 +1,6 @@
-# Getting started as a provider on Logic Marketplace & Gateway
+# Getting started
+
+To get started as a provider on Logic Marketplace & Gateway, have a go a this step by step guide.
 
 1. Create a subscription - and make sure to activate it.
 
@@ -20,4 +22,4 @@
 
 That's it. Now if you go to the API page you'll be able to find your api and configure further, add policies, new version and revisions.
 
-![show-api.png](images/show-api.png)
+3![show-api.png](images/show-api.png)

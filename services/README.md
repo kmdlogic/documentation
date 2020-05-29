@@ -4,7 +4,7 @@ Logic has a marketplace with a list of useful services that you can rely on to b
 
 Please refer to the each service documentation to understand more about them.  
 
-# TOC
+## Content
 
 - [Logic Identity](#Logic-Identity)  
 - [Logic SMS](#Logic-SMS)  
