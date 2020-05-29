@@ -4,15 +4,13 @@ This document describes how a consumer can gain access to an API exposed on the 
 
 ## 1. Access request from the customer
 
-In order to get access to Logic, the consumer needs to be able to access the [Logic Console](console). Today there are 2 different ways to achieve this - setting up a federation with Logic Identity and the consumers own identity store (company or municipal AD/AAD) or requesting to have a user created in the Logic Console user store. Fro both, the consumer needs to contact [support](mailto:logic-admin@kmd.dk) with the following information.
+In order to get access to Logic, the consumer needs to be able to access the [Logic Console](console). Today there are 2 different ways to achieve this - setting up a federation with Logic Identity and the consumers own identity store (company or municipal AD/AAD) or requesting to have a user created in the Logic Console user store. For both, the consumer needs to contact [support](mailto:logic-admin@kmd.dk) with the following information.
 
 - Company name
 - CVR number of the company
 - Contact information:
-  - Full name of the contact person
   - Email address
   - Phone number
-  - Company address
 
 ## 1. Create a Logic Subscription
 
@@ -20,10 +18,10 @@ When the consumer/partner is setup with access to the console the consumer will 
   
 1. Go to [Logic Console](console)
 2. Choose `Subscriptions` from the menu and then click on `Add Subscription`
-3. Enter a `Subscription Name` of the partners name. A `Starter` subscription is fine. Click on `Create`
+3. Enter a `Subscription Name` of the partners name. Click on `Create`
 4. Record the `Subscription Id`
 
-You will now have a Logic Subscription. If you want to setup multiple subscriptions for better tracking, you jsn just go ahead and create more and you can switch between subscriptions by returning to the `Subscriptions` page and clicking `Activate` on the subscription you wish to manage.
+You will now have a Logic Subscription. If you want to setup multiple subscriptions for better tracking, you can just go ahead and create more and you can switch between subscriptions by returning to the `Subscriptions` page and clicking `Activate` on the subscription you wish to manage.
 
 ## 1. Arrange for a Partner/Consumer Access and Client Credentials
 
@@ -85,4 +83,4 @@ After above steps are complete you may send the information gathered to the part
 - Their `API Key`
 - A link to the Logic Console <https://console.kmdlogic.io>
 
-[Console](https://console.kmdlogic.io)
+[console]:(https://console.kmdlogic.io)

@@ -27,7 +27,7 @@ Logic also enables teams outside the Logic team to expose their services (if you
 
 ## Providers
 
-As a provider to logic you can take advantage of the advanced service infrastructure we already operate, like identity/access management, logging and auditing or you can also just choose to expose your existing API's as is on the Logic Marketplace. If you want to learn more about how to get started as a provider [this](./providers/getting-started.md) article will take you through a step by step guide on getting setup and approved as a provider. To learn more about submitting API's to the Marketplace, go [here](./providers/register-an-api.md). General information for providers are complied [here](./providers/readme.md)
+As a provider to logic you can take advantage of the advanced service infrastructure we already operate, like identity/access management, logging and auditing or you can also just choose to expose your existing API's as is on the Logic Marketplace. If you want to learn more about how to get started as a provider [this](./providers/getting-started.md) article will take you through a step by step guide on getting setup and approved as a provider. To learn more about submitting API's to the Marketplace, go [here](./providers/register-an-api.md). General information for providers is available [here](./providers/readme.md)
 
 ## Services
 
